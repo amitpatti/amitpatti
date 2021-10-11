@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @amitpatti
+- 👀 I’m interested in Machine Learning...
+- 🌱 I’m currently learning Computer Science Engineering...
+- 💞️ I’m looking to collaborate on various projects related to AI and ML...
+
+<!---
+amitpatti/amitpatti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
